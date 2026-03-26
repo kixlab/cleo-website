@@ -40,7 +40,7 @@ When working alongside <span class="sys-name"><span style="font-size: 1em;">C</s
   </div>
   <div class="interaction-media">
     <div class="interaction-video">
-      <video controls playsinline preload="none">
+      <video controls playsinline preload="metadata">
         <source src="/assets/videos/handsoff_interaction.mp4" type="video/mp4">
       </video>
     </div>
@@ -57,7 +57,7 @@ When working alongside <span class="sys-name"><span style="font-size: 1em;">C</s
   </div>
   <div class="interaction-media">
     <div class="interaction-video">
-      <video controls playsinline preload="none">
+      <video controls playsinline preload="metadata">
         <source src="/assets/videos/observational_interaction.mp4" type="video/mp4">
       </video>
     </div>
@@ -74,7 +74,7 @@ When working alongside <span class="sys-name"><span style="font-size: 1em;">C</s
   </div>
   <div class="interaction-media">
     <div class="interaction-video">
-      <video controls playsinline preload="none">
+      <video controls playsinline preload="metadata">
         <source src="/assets/videos/directive_interaction.mp4" type="video/mp4">
       </video>
     </div>
@@ -91,7 +91,7 @@ When working alongside <span class="sys-name"><span style="font-size: 1em;">C</s
   </div>
   <div class="interaction-media">
     <div class="interaction-video">
-      <video controls playsinline preload="none">
+      <video controls playsinline preload="metadata">
         <source src="/assets/videos/concurrent_interaction.mp4" type="video/mp4">
       </video>
     </div>
@@ -108,7 +108,7 @@ When working alongside <span class="sys-name"><span style="font-size: 1em;">C</s
   </div>
   <div class="interaction-media">
     <div class="interaction-video">
-      <video controls playsinline preload="none">
+      <video controls playsinline preload="metadata">
         <source src="/assets/videos/terminating_interaction.mp4" type="video/mp4">
       </video>
     </div>
