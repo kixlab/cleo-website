@@ -1,0 +1,11 @@
+title: CLEO
+theme: minima
+description: "Expanding Human-Agent Co-Creative Collaboration through Concurrent Interaction"
+
+syscolor: "#0EA5A0"
+sysfont: Assistant
+paper: https://arxiv.org/abs/2603.02050
+video_demo: ""
+
+plugins:
+  - jekyll-feed

@@ -1,0 +1,39 @@
+- name: Kihoon Son
+  affiliation: KAIST
+  website: https://kihoon-son.github.io/
+  img: kihoon.jpeg
+- name: Hyewon Lee
+  affiliation: KAIST
+  website: https://www.hyewon.me/
+  img: hyewon.png
+- name: DaEun Choi
+  affiliation: KAIST
+  website: https://cheddarchoi.github.io
+  img: daeun.jpg
+- name: Yoonsu Kim
+  affiliation: KAIST
+  website: https://yoonsu0816.github.io/
+  img: yoonsu.png
+- name: Tae Soo Kim
+  affiliation: KAIST
+  website: https://taesookim.com
+  img: taesoo.jpeg
+- name: Yoonjoo Lee
+  affiliation: U of Michigan
+  website: https://yoonjoolee.com/
+  img: yoonjoo.jpeg
+- name: John Joon Young Chung
+  affiliation: Midjourney
+  website: https://johnr0.github.io/
+  img: John Joon Young Chung.jpg
+- name: HyunJoon Jung
+  affiliation: Mphora.ai
+  affiliation_url: https://www.linkedin.com/company/mphora-ai/
+  website: https://www.linkedin.com/in/hyunvincero/
+  img: hyunjoon.jpeg
+- name: Juho Kim
+  affiliation: KAIST
+  affiliation2: SkillBench
+  affiliation2_url: https://skillbench.com
+  website: https://juhokim.com
+  img: juho.jpg
